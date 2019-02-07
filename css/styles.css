@@ -4,11 +4,11 @@
 html{
   background-color: #4514;
 }
-p.introduction{
+.introduction p{
   color: #841204;
   font-family: fantasy;
 }
-h2.introduction{
+.introduction h2{
   color: #684413;
 }
 .head{
