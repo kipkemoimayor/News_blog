@@ -1,0 +1,18 @@
+.introduction{
+  color:#984;
+}
+html{
+  background-color: #4514;
+}
+p.introduction{
+  color: #841204;
+  font-family: fantasy;
+}
+h2.introduction{
+  color: #684413;
+}
+.head{
+  color: #120412;
+  text-align: center;
+  text-transform: capitalize;
+}
