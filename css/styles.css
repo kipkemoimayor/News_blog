@@ -16,3 +16,17 @@ html{
   text-align: center;
   text-transform: capitalize;
 }
+@media screen and(min-width:1200px) and (max-device-width:1600px) {
+  .one img{
+    height: 250px;
+    width: auto;
+  }
+
+}
+@media screen and (max-width:600px) {
+  .one img{
+    height: 250px;
+    width: auto;
+  }
+
+}
